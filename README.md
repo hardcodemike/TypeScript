@@ -5,7 +5,7 @@ Führt das Typescript Tutorial "5 Minutes with Typescript" durch.
 Stellt mit TypeScript den Unterschied zwischen "var" und "let" dar.
 
 ## A3 - Funktionen
-Erstellt mit TypeSCript eine Funktion mit Vorname und Nachname als Übergabeparameter. 
+Erstellt mit TypeScript eine Funktion mit Vorname und Nachname als Übergabeparameter. Vorname soll einen default Wert besitzen.
 Diese soll den vollen Namen zurückgeben. Ruft diese Funktion 1x mit zu wenig, 1x mit zu viele, 1x mit validen Parametern und 1x mit undefinied und validen Parameter auf.
 
 ## A4 - Basis Types
